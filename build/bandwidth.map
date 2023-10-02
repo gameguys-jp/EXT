@@ -1,0 +1,211 @@
+__text_start T ffffffff80010000 	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/main.c:70
+main T ffffffff80010000 4f4	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/main.c:70
+simple_random T ffffffff800104f4 30	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:88
+pollInput T ffffffff80010524 b7c	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:95
+initDisplay T ffffffff800110a0 21c	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:338
+display T ffffffff800112bc 150	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:386
+begin T ffffffff8001140c e0	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:400
+end T ffffffff800114ec 34	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:414
+sortObject T ffffffff80011520 544	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/display.c:426
+loadTexture T ffffffff80011a64 80	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/textures.c:5
+initInput T ffffffff80011ae4 4c	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/input.c:8
+sin_lookup T ffffffff80011b30 f4	C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/function.c:21
+_vblank_handler t ffffffff80011c24 40	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:40
+_process_drawop t ffffffff80011c64 bc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:47
+_gpu_irq_handler t ffffffff80011d20 4c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:68
+_gpu_dma_handler t ffffffff80011d6c 40	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:75
+_default_vsync_halt t ffffffff80011dac 70	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:129
+ResetGraph T ffffffff80011e1c 174	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:82
+VSync T ffffffff80011f90 124	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:141
+SetDrawOpType T ffffffff800120b4 10	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:193
+EnqueueDrawOp T ffffffff800120c4 134	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:197
+DrawSync T ffffffff800121f8 fc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/common.c:237
+_send_linked_list T ffffffff800122f4 64	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/drawing.c:15
+DrawOTag T ffffffff80012358 68	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/drawing.c:43
+ClearOTagR T ffffffff800123c0 98	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/drawing.c:120
+_build_drawenv_ot t ffffffff80012458 228	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:37
+SetDefDrawEnv T ffffffff80012680 b8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:81
+DrawOTagEnv T ffffffff80012738 78	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:107
+PutDrawEnv T ffffffff800127b0 5c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:129
+SetDefDispEnv T ffffffff8001280c 90	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:149
+PutDispEnv T ffffffff8001289c 258	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:169
+SetDispMask T ffffffff80012af4 2c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/env.c:283
+FntLoad T ffffffff80012b20 20c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/font.c:26
+FntOpen T ffffffff80012d2c 144	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/font.c:70
+FntPrint T ffffffff80012e70 140	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/font.c:103
+FntFlush T ffffffff80012fb0 3d0	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/font.c:130
+_dma_transfer t ffffffff80013380 1bc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/image.c:30
+LoadImage T ffffffff8001353c e8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/image.c:72
+GetTimInfo T ffffffff80013624 cc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgpu/image.c:186
+InitGeom T ffffffff800136f0 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/initgeom.s:11
+_isin t ffffffff80013754 94	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/isin.c:15
+isin T ffffffff800137e8 28	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/isin.c:32
+icos T ffffffff80013810 28	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/isin.c:36
+RotMatrix T ffffffff80013838 1cc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.c:3
+TransMatrix T ffffffff80013a04 30	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.c:63
+ApplyMatrixLV T ffffffff80013a34 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.s:20
+CompMatrixLV T ffffffff80013a94 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.s:52
+MulMatrix0 T ffffffff80013bb4 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.s:205
+PushMatrix T ffffffff80013c8c 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.s:393
+PopMatrix T ffffffff80013cd8 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxgte/matrix.s:416
+SIO_WriteByte2 T ffffffff80013d28 dc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxsio/sio.c:212
+SIO_WriteByte T ffffffff80013e04 64	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxsio/sio.c:202
+_global_dma_handler t ffffffff80013e68 e8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:79
+_global_isr t ffffffff80013f50 ec	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:57
+InterruptCallback T ffffffff8001403c c8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:103
+DMACallback T ffffffff80014104 13c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:125
+SetDMAPriority T ffffffff80014240 ac	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:160
+RestartCallback T ffffffff800142ec c8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:203
+ResetCallback T ffffffff800143b4 d8	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxetc/interrupts.c:183
+EnterCriticalSection T ffffffff8001448c 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/_syscalls.s:12
+ExitCriticalSection T ffffffff8001449c 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/_syscalls.s:22
+_96_remove T ffffffff800144ac 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/drivers.s:31
+printf T ffffffff800144b8 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/stdio.s:119
+InitPAD T ffffffff800144c4 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:241
+StartPAD T ffffffff800144d0 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:249
+ReturnFromException T ffffffff800144dc 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:265
+HookEntryInt T ffffffff800144e8 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:281
+ChangeClearPAD T ffffffff800144f4 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:313
+ChangeClearRCnt T ffffffff80014500 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/psxapi/sys.s:355
+_start W ffffffff8001450c 	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/_start.s:15
+_find_fit t ffffffff8001451c 5c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:82
+InitHeap W ffffffff80014578 2c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:40
+sbrk W ffffffff800145a4 44	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:53
+TrackHeapUsage W ffffffff800145e8 30	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:64
+malloc W ffffffff80014618 1bc	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:98
+free W ffffffff800147d4 150	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/malloc.c:236
+_start_inner T ffffffff80014924 128	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/start.c:73
+toupper T ffffffff80014a4c 20	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/string.c:48
+strlen T ffffffff80014a6c 2c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/string.c:234
+get_arg_in_size T ffffffff80014a98 128	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/vsprintf.c:102
+put_in_string T ffffffff80014bc0 2c	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/vsprintf.c:167
+vsnprintf T ffffffff80014bec fec	D:/a/PSn00bSDK/PSn00bSDK/sdk/libpsn00b/libc/vsprintf.c:376
+stringArray r ffffffff80017f08 7c
+sin_table r ffffffff80017f84 16c
+__func__.0 r ffffffff800181b8 e
+__func__.2 r ffffffff80018200 b
+__func__.11 r ffffffff8001820c 9
+__func__.1 r ffffffff80018244 b
+__func__.2 r ffffffff80018250 e
+__func__.4 r ffffffff80018260 b
+__func__.6 r ffffffff8001826c c
+__func__.7 r ffffffff80018278 e
+__func__.1 r ffffffff80018304 9
+__func__.2 r ffffffff80018310 9
+__func__.0 r ffffffff800183b8 b
+__func__.7 r ffffffff800183c4 a
+__func__.1 r ffffffff80018444 f
+__func__.3 r ffffffff80018454 c
+__func__.5 r ffffffff80018460 12
+_isr_jmp_buf r ffffffff80018474 30
+__CTOR_LIST__ D ffffffff80018620 
+__CTOR_END__ D ffffffff80018628 
+__DTOR_LIST__ D ffffffff80018630 
+__DTOR_END__ D ffffffff80018638 
+light_mtx D ffffffff80018638 20
+color_mtx D ffffffff80018658 20
+cube_uv D ffffffff80018678 a0
+cube_normal_indices D ffffffff80018718 18
+cube_uv_indices D ffffffff80018730 30
+cube_vertex_indices D ffffffff80018760 30
+cube_norms D ffffffff80018790 30
+cube_verts D ffffffff800187c0 40
+cube2_uv D ffffffff80018800 17a0
+cube2_normal_indices D ffffffff80019fa0 3f0
+cube2_uv_indices D ffffffff8001a390 7e0
+cube2_vertex_indices D ffffffff8001ab70 7e0
+cube2_verts D ffffffff8001b350 400
+floor_uv D ffffffff8001b750 750
+floor_normal_indices D ffffffff8001bea0 290
+floor_uv_indices D ffffffff8001c130 520
+floor_vertex_indices D ffffffff8001c650 520
+floor_norms D ffffffff8001cb70 88
+floor_verts D ffffffff8001cbf8 5d0
+fountain_uv D ffffffff8001d1c8 2250
+fountain_normal_indices D ffffffff8001f418 5b8
+fountain_uv_indices D ffffffff8001f9d0 b70
+fountain_vertex_indices D ffffffff80020540 b70
+fountain_verts D ffffffff800210b0 628
+bandwidth_face D ffffffff800216d8 4220
+bandwidth_face_end d ffffffff800258f8 
+cobble D ffffffff800258f8 20014
+cobble_end d ffffffff8004590c 
+fountain_texture D ffffffff8004590c 8014
+_gpu_debug_font D ffffffff8004d920 840
+fountain_texture_end d ffffffff8004d920 
+_gpu_debug_font_end d ffffffff8004e160 
+_matrix_stack d ffffffff8004e160 
+seed D ffffffff8004e180 4
+hexData D ffffffff8004e184 5
+previousPadState D ffffffff8004e18a 2
+cube_num_faces D ffffffff8004e18c 4
+cube2_num_faces D ffffffff8004e190 4
+floor_num_faces D ffffffff8004e194 4
+fountain_num_faces D ffffffff8004e198 4
+_vsync_halt_func d ffffffff8004e19c 4
+__func__.3 d ffffffff8004e1a0 8
+__func__.4 d ffffffff8004e1a8 8
+__bss_start B ffffffff8004e1b0 
+currentStringIndex B ffffffff8004e1b0 4
+dataIndex B ffffffff8004e1b4 4
+pad B ffffffff8004e1b8 4
+trot B ffffffff8004e1bc 8
+counter B ffffffff8004e1c4 4
+screen_clip B ffffffff8004e1c8 8
+db_nextpri B ffffffff8004e1d0 4
+db_active B ffffffff8004e1d4 4
+noInputTimer B ffffffff8004e1d8 4
+_last_hblank b ffffffff8004e1dc 2
+_last_vblank b ffffffff8004e1e0 4
+_vblank_counter b ffffffff8004e1e4 4
+_drawop_type b ffffffff8004e1e8 1
+_queue_length b ffffffff8004e1e9 1
+_queue_tail b ffffffff8004e1ea 1
+_queue_head b ffffffff8004e1eb 1
+_drawsync_callback b ffffffff8004e1ec 4
+_vsync_callback b ffffffff8004e1f0 4
+_gpu_video_mode B ffffffff8004e1f4 4
+_font_clut B ffffffff8004e1f8 2
+_font_tpage B ffffffff8004e1fa 2
+_nstreams b ffffffff8004e1fc 4
+_next_saved_rect b ffffffff8004e200 4
+_isr_installed b ffffffff8004e204 4
+_saved_dma_dicr b ffffffff8004e208 4
+_saved_dma_dpcr b ffffffff8004e20c 4
+_saved_irq_mask b ffffffff8004e210 2
+_num_dma_handlers b ffffffff8004e214 4
+_alloc_tail b ffffffff8004e218 4
+_alloc_head b ffffffff8004e21c 4
+_alloc_start b ffffffff8004e220 4
+_heap_alloc_max b ffffffff8004e224 4
+_heap_alloc b ffffffff8004e228 4
+_heap_limit b ffffffff8004e22c 4
+_heap_end b ffffffff8004e230 4
+_heap_start b ffffffff8004e234 4
+__argv B ffffffff8004e238 4
+__argc B ffffffff8004e23c 4
+fountain_tim B ffffffff8004e240 14
+floor_tim B ffffffff8004e254 14
+tim B ffffffff8004e268 14
+floor_obj B ffffffff8004e27c 4c
+fountain B ffffffff8004e2c8 4c
+obj2 B ffffffff8004e314 4c
+obj1 B ffffffff8004e360 4c
+convertedStr B ffffffff8004e3ac 64
+mtx B ffffffff8004e410 20
+tpos B ffffffff8004e430 c
+cam_rot B ffffffff8004e43c c
+cam_pos B ffffffff8004e448 c
+db B ffffffff8004e454 100a8
+_gp d ffffffff80056170 
+padBuffer B ffffffff8005e4fc 44
+cube2_norms B ffffffff8005e540 400
+fountain_norms B ffffffff8005e940 628
+_draw_queue b ffffffff8005ef68 100
+_stream b ffffffff8005f068 e0
+_saved_rects b ffffffff8005f148 80
+_tx_buffer b ffffffff8005f1c8 83
+_isr_stack b ffffffff8005f24c 1000
+_dma_handlers b ffffffff8006024c 1c
+_irq_handlers b ffffffff80060268 2c
+_end B ffffffff80060294 
