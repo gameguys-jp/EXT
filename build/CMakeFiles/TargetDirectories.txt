@@ -1,4 +1,0 @@
-C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/build/CMakeFiles/bandwidth.dir
-C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/build/CMakeFiles/iso.dir
-C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/build/CMakeFiles/edit_cache.dir
-C:/Users/6120n/Downloads/PS1Game-master/PS1Game-master/build/CMakeFiles/rebuild_cache.dir
